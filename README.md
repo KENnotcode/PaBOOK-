@@ -36,4 +36,7 @@ PaBOOK is licensed under the [insert license, e.g., MIT License].
 
 ## Acknowledgments
 
-* [Insert acknowledgments, e.g., thanks to contributors, inspirations, etc.]
+* **Developers**
+1. Kringo Carlo Comota (Bachelor of Science in Computer Science)
+2. Kenneth Cubilo (Bachelor of Science in Computer Science)
+3. Mark Diaz (Bachelor of Science in Information Technology)
