@@ -1,74 +1,39 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
+# PaBOOK: Hotel Room Booking Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+PaBOOK is a web application designed to simplify the process of finding and booking hotel rooms. This repository contains the source code for the PaBOOK website, which aims to provide a user-friendly interface for customers to search, select, and reserve hotel rooms.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+* **Hotel Room Search**: Users can search for available hotel rooms based on location, dates, and room type.
+* **Room Details**: Detailed information about each room, including amenities, rates, and reviews.
+* **Booking System**: Secure and easy-to-use booking system for users to reserve rooms.
+* **User Profile**: Users can create an account to manage their bookings and save their preferences.
 
-### `npm start`
+## Technical Details
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+* **Front-end**: Built using [insert front-end framework/library, e.g., React, Angular, Vue.js]
+* **Back-end**: Built using [insert back-end framework/library, e.g., Node.js, Django, Ruby on Rails]
+* **Database**: [Insert database management system, e.g., MySQL, MongoDB, PostgreSQL]
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Getting Started
 
-### `npm test`
+1. Clone the repository: `git clone https://github.com/KENnotcode/PaBOOK-.git`
+2. Install dependencies: [insert command to install dependencies, e.g., `npm install`]
+3. Start the application: [insert command to start the application, e.g., `npm start`]
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Contributing
 
-### `npm run build`
+Contributions are welcome! If you'd like to contribute to PaBOOK, please:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. Fork the repository
+2. Create a new branch for your feature/bug fix
+3. Commit your changes with a clear and concise commit message
+4. Open a pull request to merge your changes into the main branch
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## License
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+PaBOOK is licensed under the [insert license, e.g., MIT License].
 
-### `npm run eject`
+## Acknowledgments
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# PaBOOK-
->>>>>>> origin/main
+* [Insert acknowledgments, e.g., thanks to contributors, inspirations, etc.]
