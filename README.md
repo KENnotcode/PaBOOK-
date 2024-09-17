@@ -35,7 +35,6 @@ Contributions are welcome! If you'd like to contribute to PaBOOK, please:
 PaBOOK is licensed under the [insert license, e.g., MIT License].
 
 ## Acknowledgments
-
 * **Developers**
 1. Kringo Carlo Comota (Bachelor of Science in Computer Science)
 2. Kenneth Cubilo (Bachelor of Science in Computer Science)
